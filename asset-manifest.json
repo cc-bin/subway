@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/subway/static/css/main.2522b15e.css",
+    "main.js": "/subway/static/js/main.ed23b16b.js",
+    "index.html": "/subway/index.html",
+    "main.2522b15e.css.map": "/subway/static/css/main.2522b15e.css.map",
+    "main.ed23b16b.js.map": "/subway/static/js/main.ed23b16b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2522b15e.css",
+    "static/js/main.ed23b16b.js"
+  ]
+}
