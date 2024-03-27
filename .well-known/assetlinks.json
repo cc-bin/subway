@@ -4,7 +4,7 @@
             "delegate_permission/common.handle_all_urls"
         ],
         "target": {
-            "namespace": "android_app",
+            "namespace": "com.example.subway",
             "package_name": "com.example.subway",
             "sha256_cert_fingerprints": [
                 "42:FC:ED:CC:47:A3:C9:21:F0:AB:D7:8E:08:88:4F:AE:09:31:40:A7:71:B9:8E:DD:B5:D4:0E:F5:BD:3A:3E:BF"
